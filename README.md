@@ -35,7 +35,7 @@ Setup & Installation
 
 Clone this repository:
 
-git clone https://github.com/your-username/vibeflix.git
+git clone https://github.com/JeffKagiri/Movie_App.git
 
 
 Open the folder:
